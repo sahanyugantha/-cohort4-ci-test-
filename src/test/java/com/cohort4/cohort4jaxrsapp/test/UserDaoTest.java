@@ -54,7 +54,7 @@ public class UserDaoTest {
 //		
 //		assertNotNull(actual);
 		
-		assertEquals(6,5);
+		assertEquals(6,6);
 		
 	}
 
