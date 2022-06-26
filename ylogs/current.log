@@ -1,0 +1,4 @@
+11:34:58.400 [main] INFO  com.cohort4.cohort4jaxrsapp.config.DbConnection - DB SUCCESS :  Connection Successful
+11:35:01.021 [main] INFO  com.cohort4.cohort4jaxrsapp.config.DbConnection - DB SUCCESS :  Connection Successful
+11:35:03.601 [main] INFO  com.cohort4.cohort4jaxrsapp.config.DbConnection - DB SUCCESS :  Connection Successful
+11:35:06.356 [main] INFO  com.cohort4.cohort4jaxrsapp.config.DbConnection - DB SUCCESS :  Connection Successful
